@@ -10,7 +10,11 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "sass": "^1.85.1",
     "typescript": "^5.8.2",
     "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "uuid": "^11.1.0"
   }
 }
